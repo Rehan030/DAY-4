@@ -1,0 +1,21 @@
+html {font-size: 60%;}
+body {
+    font-family: Poppins, 'Helvetica Neue', sans-serif;
+    font-size: 1.4rem;
+    line-height: 1.5;
+    padding: 15px;
+    background-image: url(../img/sfondo.png);
+    background-position: center;
+}
+* {box-sizing: border-box;}
+hr {display: none;}
+header {
+    background: rgb(0, 162, 190);
+    background: linear-gradient(180deg, rgba(0,160,198,1) 0%, rgba(3,109,134,1) 68%);
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    box-shadow: 0 3px 3px #444;
+    margin-bottom: 1.5rem;
+    padding: 2em 1,5em;
+}
